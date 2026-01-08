@@ -2,6 +2,7 @@
 
 A demo of a simple platformer game, written in Java
 
+![scrolling](https://github.com/user-attachments/assets/12e2d4e8-da44-414c-9d3f-bd489f68dcb1)
 
 ## Features
 - **Java Standard**
@@ -26,4 +27,5 @@ cd JavaPlatformerBasis
 ```
 
 ### Credits
-- inspired by "Kaarin Gaming" youtube channel's tutorial
+- Inspired by "Kaarin Gaming" youtube channel's tutorial
+- I do not own any of the assets (sprites and music) used in this code 
