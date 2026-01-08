@@ -23,7 +23,7 @@ A demo of a simple platformer game, written in Java
 ```bash
 git clone https://github.com/zekgio/JavaPlatformerBasis.git
 cd JavaPlatformerBasis
-./mvnw exec:java (or mvnw exec:java on Windows)
+./mvnw compile exec:java (or mvnw compile exec:java on Windows)
 ```
 
 ### Credits
